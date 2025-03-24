@@ -3,7 +3,7 @@ name: Build Android Release APK
 on:
   push:
     branches:
-      - master  # adjust if using a different branch (e.g., main)
+      - main
 
 jobs:
   build:
