@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40215337181",
+    "project_id": "cipherschools-ace0d",
+    "storage_bucket": "cipherschools-ace0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40215337181:android:4cd01e3fddd4eba897e334",
+        "android_client_info": {
+          "package_name": "com.example.cipherschools_flutter_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEn9B_P7kqj4Zbnzt7zyflwOCnobqPy2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
